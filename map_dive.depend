@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1715413921 source:g:\users\codeblocks\map_dive\map.c
+	<stdlib.h>
+	<string.h>
+	"map.h"
+	<string.h>
+
+1715412266 g:\users\codeblocks\map_dive\map.h
+	<string.h>
+	"stdlib.h"
+
+1715412880 source:g:\users\codeblocks\map_dive\main.c
+	<stdio.h>
+	<stdlib.h>
+	"map.h"
+
+1716214664 source:c:\users\administrator\desktop\md\map_dive\map.c
+	<stdlib.h>
+	<string.h>
+	"map.h"
+	<string.h>
+	<stdio.h>
+	<assert.h>
+
+1716208554 c:\users\administrator\desktop\md\map_dive\map.h
+	<string.h>
+	"stdlib.h"
+
+1716215897 source:c:\users\administrator\desktop\md\map_dive\main.c
+	<stdio.h>
+	<stdlib.h>
+	"map.h"
+
